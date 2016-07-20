@@ -2,3 +2,4 @@
 
 * git init - creates a new git repository in the current folder
 * git status - shows current status [of git repository?]
+* git add - adds file(s) to staging area, to be committed
